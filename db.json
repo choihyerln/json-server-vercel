@@ -1,0 +1,37 @@
+{
+  "postList": [
+    {
+      "id": 1,
+      "title": "안녕하쇼",
+      "content": "혜린입니다 ~"
+    },
+    {
+      "id": 3,
+      "title": "가을이네요!",
+      "content": "날씨가 너무 좋아 🌞~~"
+    }
+  ],
+  "users": [
+    {
+      "email": "hr_1227@naver.com",
+      "password": "11",
+      "id": 1
+    },
+    {
+      "email": "fds",
+      "password": "fds",
+      "id": 2
+    },
+    {
+      "email": "hr_1227@naver.com",
+      "password": "f",
+      "id": 3
+    },
+    {
+      "email": "ㄹㅇ",
+      "password": "fd",
+      "id": 4
+    }
+  ],
+  "register": []
+}
